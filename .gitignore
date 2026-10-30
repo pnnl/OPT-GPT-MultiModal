@@ -1,0 +1,25 @@
+# Runtime configuration and secrets
+.env
+.env.*
+!.env.example
+.streamlit/
+
+# Proprietary/private input data (do not commit these files)
+data/
+private_data/
+*.csv
+*.parquet
+*.pq
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# Python and Streamlit generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/cache/
+.DS_Store

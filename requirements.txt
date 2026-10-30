@@ -1,0 +1,9 @@
+streamlit>=1.33,<2
+pandas>=2.0,<3
+numpy>=1.24,<3
+plotly>=5.18,<7
+matplotlib>=3.7,<4
+SQLAlchemy>=2.0,<3
+pymssql>=2.3,<3
+pyomo>=6.7,<7
+pyarrow>=14,<25
