@@ -1,0 +1,50 @@
+DRAFT — REVIEW AND COMPLETE BEFORE RELYING ON THIS LICENSE
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+1. Definitions
+
+“Software” means the source code and accompanying materials in this repository
+identified by the copyright notice above. “Eligible Organization” means an
+educational institution or nonprofit organization located in the United States
+of America. “Authorized Personnel” means an Eligible Organization’s employees,
+students, and contractors acting on its behalf and subject to its direction.
+
+2. Limited permission
+
+Subject to these terms, the copyright holder grants each Eligible Organization
+a non-exclusive, non-transferable, non-sublicensable permission to use, run,
+and internally modify the Software solely for that organization’s educational,
+research, or nonprofit purposes. An Eligible Organization may permit its
+Authorized Personnel to exercise this permission on its behalf.
+
+3. Restrictions
+
+This permission does not authorize any person or organization to redistribute,
+publish, sublicense, sell, or otherwise make the Software or modified copies
+available to third parties, or to use the Software for a commercial purpose.
+No rights are granted to persons or organizations that are not Eligible
+Organizations, except that members of the public may interact with a separately
+hosted public-facing service operated by an Eligible Organization; that access
+does not grant rights to obtain, copy, or use the Software itself.
+
+4. Reservation of rights; no data rights
+
+All rights not expressly granted are reserved. This license grants no rights in
+any data, database, credentials, trademarks, or other materials that may be
+accessed by or used with the Software. Such materials may be subject to separate
+terms and access restrictions.
+
+5. Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED
+BY LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE.
+
+This is a custom-license draft, not a standard open-source license. Replace the
+placeholders and have the copyright holder or authorized counsel review and
+approve it before treating it as the applicable license. The repository being
+public does not itself expand the permissions stated here.
